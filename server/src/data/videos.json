@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Beachside Bliss",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla, suscipit non officia ratione placeat harum tempora dolorum omnis, culpa officiis accusamus deserunt doloribus obcaecati minus molestias, quisquam quis adipisci consectetur?",
+      "image": "http://localhost:4000/images/1.png",
+      "url": "https://www.youtube.com/embed/aSk-D86aOtc"
+    },
+    {
+      "id": 2,
+      "title": "Safari dawn tranquility",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla, suscipit non officia ratione placeat harum tempora dolorum omnis, culpa officiis accusamus deserunt doloribus obcaecati minus molestias, quisquam quis adipisci consectetur?",
+      "image": "http://localhost:4000/images/2.png",
+      "url": "https://www.youtube.com/embed/aSk-D86aOtc"
+    },
+    {
+        "id": 3,
+        "title": "Greek island gateway",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla, suscipit non officia ratione placeat harum tempora dolorum omnis, culpa officiis accusamus deserunt doloribus obcaecati minus molestias, quisquam quis adipisci consectetur?",
+        "image": "http://localhost:4000/images/3.png",
+        "url": "https://www.youtube.com/embed/aSk-D86aOtc"
+      }
+  ]
+  

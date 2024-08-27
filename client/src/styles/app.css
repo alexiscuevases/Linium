@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply text-white
+    }
+}
+
+.container {
+    @apply w-full max-w-[1366px] mx-auto px-4;
+}
